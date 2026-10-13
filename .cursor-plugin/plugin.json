@@ -1,0 +1,22 @@
+{
+  "author": {
+    "email": "support@askthew.com",
+    "name": "Ask The W"
+  },
+  "category": "Productivity",
+  "description": "Ask The W for Cursor. Sign in, choose a project, and act in it when you ask.",
+  "displayName": "Ask The W",
+  "homepage": "https://askthew.com/plugin",
+  "keywords": [
+    "askthew",
+    "decisions",
+    "next-moves",
+    "mcp",
+    "cursor"
+  ],
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "name": "askthew",
+  "repository": "https://github.com/AskTheWAI/cursor-plugin",
+  "version": "0.1.0"
+}
