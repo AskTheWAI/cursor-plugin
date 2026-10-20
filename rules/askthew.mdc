@@ -5,7 +5,7 @@ alwaysApply: true
 
 Ask The W writes only when the person asks. Call a write tool only after that person makes an explicit request.
 
-Never call `request_world_analysis` on your own. A World analysis starts paid work. Never call `read_market`, `strategy_direction`, or `strategy_angles` with verb run unless the person agrees, and pass confirm true only after that agreement. Never call `request_whiteboard_map` unless the person asks. On `create_project`, Autopilot is on unless you pass false.
+Never call `request_world_analysis` on your own. A World analysis starts paid work. Never call `read_market`, `strategy_direction`, or `strategy_angles` to create a result unless the person asks. Never call `request_whiteboard_map` unless the person asks. On `create_project`, Autopilot is on unless the person's own sentence says otherwise.
 
 `draft_wire_message` writes a draft for a person to review. It never sends.
 
